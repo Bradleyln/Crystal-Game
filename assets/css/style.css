@@ -1,0 +1,57 @@
+.container{
+	background-image: url("../images/backgroundcrystal.png");
+	background-size: cover;
+}
+
+#gameNAme{
+	font-family: 'Merienda', cursive;
+	font-weight: bold;
+
+}
+body,
+h3{
+	text-align: center;
+	background-color: #d0d6e0;
+	font-family: 'Merienda', cursive;
+	margin-top: 0;
+}
+
+.instructions{
+    margin-bottom: 10px;
+    font: 35px;
+    color: black;
+    font-family: 'Merienda', cursive;
+    background-color: #d0d6e0;
+}
+
+.click{
+  width:80px;
+  height:80px;
+}
+
+.row1{
+	font-family: 'Merienda', cursive;
+	font-weight: bold;
+}
+
+.row4 {
+  background-color: #d0d6e0;
+  color: black;
+  font: 25px;
+  margin-bottom: 50px;
+}
+
+.score {
+	font-size: 30px;
+	background-color: #d0d6e0;
+	font-family: 'Merienda', cursive;
+}
+
+.random,
+.results,
+.finalScore,
+h3 {
+	font-size: 30px;
+	background-color: #d0d6e0;
+	font-family: 'Merienda', cursive;
+}
